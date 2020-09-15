@@ -3,7 +3,7 @@ Il s'agit d'un projet universitaire développé en C# sans aucune librairie (uni
 
 ## Demo
 
-![Preview](https://github.com/ThomasCorcoral/Calculatrice_C/blob/master/Capture%20d%E2%80%99%C3%A9cran%20de%202020-09-15%2011-19-51.png)
+![Preview](https://github.com/ThomasCorcoral/Calculatrice_C/blob/master/calculatrice.png)
 
 ## Comment a-t-il été réalisé ?
 
