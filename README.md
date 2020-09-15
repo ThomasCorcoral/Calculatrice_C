@@ -11,8 +11,17 @@ Guide d'installation
 Etape 1
 Rendez vous dans le dossier du projet, puis suivez le chemin calculetteEn/calculetteEn/
 
+Pour les test :
+Pour compiler les tests : make
+Pour lancer les test : ./calclib
+Pour nettoyer le projet : make clean
+
+Pour la calculatrice :
+Compiler le fichier ./calc.c avec gcc
+Lancez l'executable 
+
 Etape 2
-Pour lancer la calculatrice : ./calc
+Pour lancer les tests sur la calculatrice : ./calclib
 
 Etape 3
-Pour lancer les tests sur la calculatrice : ./calclib
+Pour lancer la calculatrice : ./calc
