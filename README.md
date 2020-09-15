@@ -1,1 +1,18 @@
-# Calculatrice_C-
+Quel est cette calculatrice.
+
+Il s'agit d'un projet universitaire développé en C# sans aucune librairie (uniquement avec <stddef.h>). Il représente une calculatrice sur le terminal, les opérations de base sont réalisables, la base est également modifiable. Le but de ce projet est de pouvoir facilement convertir un code en C# en langage assembleur (MIPS par exemple).
+
+Comment a-t-il été réalisé ?
+
+Le but de ce projet est de pouvoir facilement convertir un code en C# en langage assembleur (MIPS par exemple).
+
+Guide d'installation
+
+Etape 1
+Rendez vous dans le dossier du projet, puis suivez le chemin calculetteEn/calculetteEn/
+
+Etape 2
+Pour lancer la calculatrice : ./calc
+
+Etape 3
+Pour lancer les tests sur la calculatrice : ./calclib
