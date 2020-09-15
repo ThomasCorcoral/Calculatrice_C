@@ -9,7 +9,7 @@ Le but de ce projet est de pouvoir facilement convertir un code en C# en langage
 Guide d'installation
 
 Etape 1
-Rendez vous dans le dossier du projet, puis suivez le chemin calculetteEn/calculetteEn/
+Rendez vous dans le dossier du projet
 
 Pour les test :
 Pour compiler les tests : make
