@@ -1,14 +1,14 @@
-Quel est ce projet ?
+##Quel est ce projet ?
 
 Il s'agit d'un projet universitaire développé en C# sans aucune librairie (uniquement avec <stddef.h>). Il représente une calculatrice sur le terminal, les opérations de base sont réalisables, la base est également modifiable. Le but de ce projet est de pouvoir facilement convertir un code en C# en langage assembleur (MIPS par exemple).
 
-Comment a-t-il été réalisé ?
+##Comment a-t-il été réalisé ?
 
 Le but de ce projet est de pouvoir facilement convertir un code en C# en langage assembleur (MIPS par exemple).
 
-Guide d'installation
+##Guide d'installation
 
-Etape 1
+#Etape 1
 Rendez vous dans le dossier du projet
 
 Pour les test :
@@ -20,8 +20,8 @@ Pour la calculatrice :
 Compiler le fichier ./calc.c avec gcc
 Lancez l'executable 
 
-Etape 2
+#Etape 2
 Pour lancer les tests sur la calculatrice : ./calclib
 
-Etape 3
+#Etape 3
 Pour lancer la calculatrice : ./calc
