@@ -1,30 +1,30 @@
-## Quel est ce projet ?
-Il s'agit d'un projet universitaire développé en C# sans aucune librairie (uniquement avec <stddef.h>). Il représente une calculatrice sur le terminal, les opérations de base sont réalisables, la base est également modifiable. Le but de ce projet est de pouvoir facilement convertir un code en C# en langage assembleur (MIPS par exemple).
+## What is this project?
+This is an academic project developed in C without any library (only with stddef.h>). It represents a calculator on the terminal, basic operations are feasible, the base is also editable.
 
 ## Demo
 
 ![Preview](https://github.com/ThomasCorcoral/Calculatrice_C/blob/master/calculatrice.png)
 
-## Comment a-t-il été réalisé ?
+## How was it done?
 
-Le but de ce projet est de pouvoir facilement convertir un code en C# en langage assembleur (MIPS par exemple).
+The goal of this project is to easily convert a code into C into an assembly language (MIPS).
 
-## Guide d'installation
+## Installation Guide
 
-#### Etape 1
-Rendez vous dans le dossier du projet
+#### Step 1
+Go to the project file
 
-Pour les test :
-Pour compiler les tests : make
-Pour lancer les test : ./calclib
-Pour nettoyer le projet : make clean
+For the tests:
+To compile the tests: make
+To run the tests: . /calclib
+To clean the project: make clean
 
-Pour la calculatrice :
-Compiler le fichier ./calc.c avec gcc
-Lancez l'executable 
+For the calculator:
+Compile the . /calc. c file with gcc
+Launch the executable
 
-#### Etape 2
-Pour lancer les tests sur la calculatrice : ./calclib
+##### Step 2
+To run the tests on the calculator: . /calclib
 
-#### Etape 3
-Pour lancer la calculatrice : ./calc
+##### Step 3
+To start the calculator: . /calc
